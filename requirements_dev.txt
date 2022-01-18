@@ -1,0 +1,9 @@
+-r requirements.txt
+
+notebook
+flake8
+black
+rope
+pytest
+coverage
+pytest-cov
