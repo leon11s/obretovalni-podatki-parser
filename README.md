@@ -1,2 +1,1 @@
 # Obratovalni podatki parser
-
