@@ -1,5 +1,6 @@
 # lastni ignori
 data/
+piv/test_piv.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
